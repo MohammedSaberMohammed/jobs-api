@@ -9,9 +9,8 @@ const rateLimiter = require('express-rate-limit');
 
 // Swagger
 const swaggerUI = require('swagger-ui-express');
-const swaggerDocument = require('./swagger.yaml');
-// const YAML = require('yamljs');
-// const swaggerDocument = YAML.load('./swagger.yaml');
+const YAML = require('yamljs');
+const swaggerDocument = YAML.load('./swagger.yaml');
 
 const express = require('express');
 const authRouter = require('./routes/auth');
