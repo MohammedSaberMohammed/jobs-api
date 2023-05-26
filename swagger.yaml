@@ -80,7 +80,7 @@ paths:
           description: ''
           headers: {}
       deprecated: false
-  /users/{id}:
+  /jobs/{id}:
     parameters:
       - in: path
         name: id
