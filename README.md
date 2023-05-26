@@ -6,7 +6,7 @@ MONGO_URI
 JWT_SECRET
 
 ## You can try the api 
-  ## From: [https://jobs-api-b9bz.onrender.com/](**Jobs api**)
+  ## From: [**Jobs api**](https://jobs-api-b9bz.onrender.com/)
 
 After that run this command
 
