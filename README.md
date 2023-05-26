@@ -5,6 +5,9 @@ In order to spin up the project, in the root create .env with these two variable
 MONGO_URI
 JWT_SECRET
 
+## You can try the api 
+  ## From: [https://jobs-api-b9bz.onrender.com/](**Jobs api**)
+
 After that run this command
 
 ```bash
